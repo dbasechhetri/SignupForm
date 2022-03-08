@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Interest Calculator</string>
+    <string name="simpleinterest">Simple Interest [Divesh]</string>
+    <string name="principle">Principle [Enter Amount] </string>
+    <string name="time">Time [in Year]</string>
+    <string name="rate">Rate [in %]</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+
+</resources>
