@@ -2,9 +2,8 @@
 
 A signup page using JAVA in androd studio.
 <li>
-  First Name
+First Name
 Last Name
 Address
 Contact Number
-Email Id
-  <li/>
+Email Id <li/>
