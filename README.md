@@ -1,6 +1,6 @@
 # SignupForm
 
-A signup page module using Java language in Androd Studio platform.
+A signup page module using Java language in Android Studio platform.
 
 - First Name
 - Last Name
